@@ -1,0 +1,11 @@
+[INFO   ] Logger: Record log in E:\Python_Projects\Task_Manager_Android_Version\.kivy\logs\kivy_26-05-17_44.txt
+[WARNING] Kivy: KIVY_DESKTOP_PATH_ID not set. If your application targets desktop platforms, set it to provide a user-friendly application name for directories. See https://kivy.org/doc/stable/guide/environment.html
+[INFO   ] deps: Successfully imported "kivy_deps.angle" 0.5.0
+[INFO   ] deps: Successfully imported "kivy_deps.glew" 0.3.1
+[INFO   ] deps: Successfully imported "kivy_deps.sdl3" 0.1.0
+[INFO   ] Kivy: v3.0.0.dev0
+[INFO   ] Kivy: Installed at "E:\Python_Projects\Task_Manager_Android_Version\.venv\Lib\site-packages\kivy\__init__.py"
+[INFO   ] Python: v3.14.2 (tags/v3.14.2:df79316, Dec  5 2025, 17:18:21) [MSC v.1944 64 bit (AMD64)]
+[INFO   ] Python: Interpreter at "E:\Python_Projects\Task_Manager_Android_Version\.venv\Scripts\python.exe"
+[INFO   ] Logger: Purge log fired. Processing...
+[INFO   ] Logger: Purge finished!

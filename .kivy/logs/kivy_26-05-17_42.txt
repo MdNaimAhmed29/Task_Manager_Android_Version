@@ -1,0 +1,29 @@
+[INFO   ] Logger: Record log in E:\Python_Projects\Task_Manager_Android_Version\.kivy\logs\kivy_26-05-17_42.txt
+[WARNING] Kivy: KIVY_DESKTOP_PATH_ID not set. If your application targets desktop platforms, set it to provide a user-friendly application name for directories. See https://kivy.org/doc/stable/guide/environment.html
+[INFO   ] deps: Successfully imported "kivy_deps.angle" 0.5.0
+[INFO   ] deps: Successfully imported "kivy_deps.glew" 0.3.1
+[INFO   ] deps: Successfully imported "kivy_deps.sdl3" 0.1.0
+[INFO   ] Kivy: v3.0.0.dev0
+[INFO   ] Kivy: Installed at "E:\Python_Projects\Task_Manager_Android_Version\.venv\Lib\site-packages\kivy\__init__.py"
+[INFO   ] Python: v3.14.2 (tags/v3.14.2:df79316, Dec  5 2025, 17:18:21) [MSC v.1944 64 bit (AMD64)]
+[INFO   ] Python: Interpreter at "E:\Python_Projects\Task_Manager_Android_Version\.venv\Scripts\python.exe"
+[INFO   ] Logger: Purge log fired. Processing...
+[INFO   ] Logger: Purge finished!
+[WARNING] stderr: Process Skeleton Generator Worker:
+[WARNING] stderr: Traceback (most recent call last):
+[WARNING] stderr:   File "C:\Python314\Lib\multiprocessing\process.py", line 320, in _bootstrap
+[WARNING] stderr:     self.run()
+[WARNING] stderr:     ~~~~~~~~^^
+[WARNING] stderr:   File "C:\Python314\Lib\multiprocessing\process.py", line 108, in run
+[WARNING] stderr:     self._target(*self._args, **self._kwargs)
+[WARNING] stderr:     ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[WARNING] stderr:   File "C:\Program Files\JetBrains\PyCharm 2026.1.1\plugins\python-ce\helpers\generator3\util_methods.py", line 825, in _multiprocessing_wrapper
+[WARNING] stderr:     data.result_conn.send(func(*args, **kwargs))
+[WARNING] stderr:                           ~~~~^^^^^^^^^^^^^^^^^
+[WARNING] stderr:   File "C:\Program Files\JetBrains\PyCharm 2026.1.1\plugins\python-ce\helpers\generator3\core.py", line 623, in generate_skeleton
+[WARNING] stderr:     __import__(name)  # sys.modules will fill up with what we want
+[WARNING] stderr:     ~~~~~~~~~~^^^^^^
+[WARNING] stderr:   File "E:\Python_Projects\Task_Manager_Android_Version\.venv\Lib\site-packages\kivy\lib\gstplayer\__init__.py", line 26, in <module>
+[WARNING] stderr:     from kivy.lib.gstplayer._gstplayer import (
+[WARNING] stderr:         GstPlayer, get_gst_version, glib_iteration)
+[WARNING] stderr: ImportError: DLL load failed while importing _gstplayer: The specified module could not be found.
